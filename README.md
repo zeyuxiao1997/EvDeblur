@@ -70,7 +70,7 @@ cuda 11.0
 ## Citation
 ```
 @article{xiao2025learning,
-  title={Revisiting Convolutional Designs for Light Field Image Restoration},
+  title={Learning Dual Modality Interactions for Event-based Motion Deblurring},
   author={Xiao, Zeyu and Li, Zhuoyuan and Zhao, Yang and Liu, Yu and Zhang, Zhao and Jia, Wei},
   journal={In submission},
   year={2025}
